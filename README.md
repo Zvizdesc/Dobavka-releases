@@ -1,6 +1,6 @@
-# Добавка
+# Dobavka
 
-Мессенджер **Добавка**, by Dergaus.
+Мессенджер **Dobavka**, by Dergaus.
 
 [Скачать последнюю версию для Windows](https://github.com/Zvizdesc/Dobavka-releases/releases/latest)
 
